@@ -1,0 +1,85 @@
+commit 7e8fa226a6442f0c468f5b8a30471aa94903c490
+Merge: 643645b ad5c949
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Dec 3 15:02:54 2025 -0500
+
+    Merge branch 'main' of github.com:zhuxj9338/test_Dalton
+
+commit 643645b1b8046713c886ad43e16095125f2c46ab
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Dec 3 15:01:59 2025 -0500
+
+    Add file in main
+
+commit ad5c9497a0c005f2ea6585b213358771c977bb6a
+Merge: 289f93c 8d48f38
+Author: Dalton Zhu <dalton.zhu@telus.com>
+Date:   Thu Nov 27 00:23:11 2025 -0500
+
+    Merge pull request #3 from zhuxj9338/feature/main_456_feature
+    
+    Feature: Add testing line with timestamp
+
+commit 8d48f382207cfa704b9f7fd5a476a5c1991528ce
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Thu Nov 27 00:23:07 2025 -0500
+
+    Add feature testing line with timestamp
+
+commit b06413267c1933b02445178d0e6c49dd7776c2a0
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 23:53:24 2025 -0500
+
+    Add feature testing line
+
+commit 289f93c56772cf01226bb79633e1c69ab8564aab
+Merge: 2a36066 ede3a6d
+Author: Dalton Zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 23:46:04 2025 -0500
+
+    Merge pull request #1 from zhuxj9338/feature/main_123_feature
+    
+    Feature: Add testing line
+
+commit ede3a6d62ab20e1b556456abd4bc5f80c62255ee
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 23:46:00 2025 -0500
+
+    Add feature testing line
+
+commit 2a36066f81825e17b72d9f86a2fe75bb19f28a57
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 12:13:46 2025 -0500
+
+    Update .gitignore file
+
+commit dc28a133aae9036c8acc2d14a3b9661470a83ed7
+Merge: 456b16e b62c109
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 12:11:21 2025 -0500
+
+    Merge branch 'main' of github.com:zhuxj9338/test_Dalton
+
+commit 456b16ef08b48c8c9b73760214af6c379524d526
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 12:04:23 2025 -0500
+
+    Update .gitignore file
+
+commit b62c10914b0eec3e6c795455e3fa5467563eb525
+Author: Dalton Zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 26 12:02:22 2025 -0500
+
+    Create .gitignore
+
+commit d54c9cde41affd194e85bb89db6349e0b36cf26c
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Wed Nov 19 00:23:08 2025 -0500
+
+    Add a new sample in main
+
+commit 6109ddb9b2dbef4c8f734db766736dc6ccb088cc
+Author: dalton zhu <dalton.zhu@telus.com>
+Date:   Mon Nov 17 23:32:58 2025 -0500
+
+    add new file:sample.txt
